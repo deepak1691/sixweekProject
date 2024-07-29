@@ -1,2 +1,2 @@
 # sixweekProject
-this is my intrenship repo
+this is my intrenship repo.
